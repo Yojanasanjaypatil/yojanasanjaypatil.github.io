@@ -97,3 +97,16 @@ section h2{
     transform:translateY(-10px);
     transition:0.3s;
 }
+.profile-card{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    background:#2563eb;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:60px;
+    font-weight:bold;
+    margin:auto;
+}
